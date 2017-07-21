@@ -1,2 +1,2 @@
-# burger
-Eat-Da-Burger! Node, Express and Handlebars Homework
+# All the News That's Fit to Scrape
+MongoDB with Mongoose and Cheerio Homework
