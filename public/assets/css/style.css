@@ -1,0 +1,13 @@
+body {
+    background: url(/assets/img/asanoha-400px.png);
+/*    background-size: cover;
+    background-repeat: no-repeat;*/
+}
+/*h1 {
+	font-family: 'Bevan';
+}
+
+*/
+.btn-primary {
+	margin-top: 10px;
+}
